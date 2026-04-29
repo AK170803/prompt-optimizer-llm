@@ -16,10 +16,6 @@ A prompt engineering tool that transforms vague inputs into structured, high-qua
 - Streamlit
 - Ollama (Local LLM)
 
-## 📸 Demo
-
-(Add screenshot here)
-
 ## ▶️ How to Run
 
 ```bash
